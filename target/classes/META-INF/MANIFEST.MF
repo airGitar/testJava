@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: cashapp
+Implementation-Version: 1.0.0
+Built-By: Rovinta
+Implementation-Vendor-Id: com.virtualpay
+Build-Jdk: 1.8.0_161
+Implementation-URL: http://projects.spring.io/spring-boot/cashapp/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: com.venmo.cashapp.CashApplication
+
